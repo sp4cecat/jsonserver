@@ -1,6 +1,6 @@
 {
+  "login": {
   "data": {
-    "login": {
       "access_token": "$2y$10$PGbWHlE8E1Svz1vENGiN4ef4kiaa9VQxLHC\/p.T22mbCZqTQ1IldG",
       "expires_in": 3600
     }
